@@ -1,0 +1,4 @@
+git+https://github.com/PokemonGoMap/pgoapi.git#egg=pgoapi
+git+https://github.com/Kitryn/PTCAccount2.git#egg=PTCAccount2
+peewee==2.8.1
+geopy==1.11.0
